@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/service/RentalService.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/model/Rental.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/app.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/service/RentalServiceImpl.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/config/RentalTableModel.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/view/RentalView.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/controller/RentalController.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/dao/RentalDAO.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/com/labti/rentalMobil/dao/rentalDAOImpl.java</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/jdbc.properties</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/spring-configuration.xml</file>
+            <file>file:/C:/Users/Joandri%20Alkahfi%20K/Documents/NetBeansProjects/RentalMobil/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
